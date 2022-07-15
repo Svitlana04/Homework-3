@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+   width: 1440px;
+
+}
+.title{
+    margin: 20px 0;
+    text-align: center;
+}
+.blue_title{
+    color: #0BBBD3;
+    font-size: 48px;
+}
+.black_title{
+    color: #000;
+    font-size: 48px;
+}
+.blue1_title{
+    color: #28CDE3;
+    font-size: 48px;
+}
+.image{
+   background-image: url(img/Успенський\ собор\ 1.png);
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 852px;
+}
+.flag{
+    background-image: url("img/flag.png");
+    width: 70%;
+    height: 300px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 68px;
+    text-transform: uppercase;
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+div.image{
+    padding: 5rem;
+    padding-top: 13rem;
+}
+.h1{
+    margin-left: 4rem;
+    margin-top: -15rem;
+}
+.line{
+    border-bottom: 3px solid rgb(10, 83, 241);
+    width: 220px;
+}
+.card{
+    width: 24%;
+    box-shadow: 0px 4px 6px 5px rgba(0, 0, 0, 0.25);
+    height: 492px;
+    border-radius: 30px;
+    display: inline-block;
+    
+}
+.card:hover{
+    border: 3px solid #28CDE3 ;
+}
+div.card{
+    margin: 0 4.5%;
+}
+.img{
+width: 100%;
+height: 267px;
+}
+.img:hover{
+border: 2px solid #0BBBD3;
+}
+.line2{
+border-bottom: 3px solid rgb(10, 83, 241);
+    width: 260px;
+    margin: 0 auto;
+}
+.designer{
+margin-left:15rem ;
+}
+.designer:hover{
+border: 3px solid #0BBBD3;
+}
+.help{
+width: 330px;
+height: 55px;
+background-color:#0BBBD3 ;
+color: white;
+text-transform: uppercase;
+text-align: center;
+font-size: 48px;
+}
+div.help{
+margin-left: 35rem;
+
+}
+.footer{
+background-color: #0A2DA9;
+width: 1440px;
+height: 325px;
+margin-top: 17rem;
+}
+.personal_data{
+text-align: center;
+font-size: 32px;
+color: #353949;
+padding:1rem ;
+}
+.foter_img1{
+width: 31px;
+
+}
+a{
+display: inline-block;
+text-decoration: none;
+text-align: center;
+padding-top: 1rem;
+background-color: #3737ed;
+border-radius: 50px;
+box-sizing: border-box;
+width: 60px;
+height: 60px;
+background-repeat: no-repeat;
+margin-top: 2rem;
+margin-left: 36rem;
+}
